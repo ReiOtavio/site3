@@ -1,0 +1,208 @@
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.logo {
+	text-align: center;
+}
+
+.devs {
+	text-align: center;
+	position: absolute;
+	top:150px;
+	left:700px ;
+	z-index: -1;
+}
+.botao-1 {
+	background-color: #0B7636;
+	color: #FFFFFF;
+	padding: 20px 150px;
+	border-radius: 10px;
+	font-size: 18;
+	cursor: pointer;
+	display: inline-block;
+	border:none;
+	position: absolute;
+	top:440px ;
+	left:280px ;
+}
+.botao-2 {
+	background-color: #000000;
+	color: #FFFFFF;
+	position: absolute;
+	top: 510px;
+	left: 280px;
+	padding: 20px 162px;
+	border-radius: 10px;
+	font-size: 18;
+	cursor: pointer;
+	border-color: #CACACA;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+
+.texto1 {
+	position: absolute;
+	top:190px ;
+	left:300px ;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.texto22 {
+	font-size: 10px;
+	position: absolute;
+	top: 575px;
+	left: 385px;
+	color: #BCBCBC;
+	
+}
+.logo2 {
+	position: absolute;
+	top: 285px;
+	left: 200px;
+}
+.pagina2 {
+	text-align: center;
+	margin-top: 50px;
+}
+.pagina2 img {
+	width: 100%;
+	position: absolute;
+	top: 830px;
+	left: 1px;
+}
+.pagina3 {
+	text-align: center;
+	margin-top: 50px;
+}
+.pagina3 {
+	width: 100%;
+	position: absolute;
+	top: 2500px;
+	left: 1px;
+}
+.cu {
+	position: absolute;
+	top:2040px ;
+	left: 690px;
+}
+.cu img {
+	width:650px ;
+	height: 500px;
+}
+.botao-3 {
+	background-color: #0B7636;
+	color: #FFFFFF;
+	padding: 20px 150px;
+	border-radius: 10px;
+	font-size: 18;
+	cursor: pointer;
+	display: inline-block;
+	border:none;
+	position: absolute;
+	top:2260px ;
+	left:220px ;
+}
+.texto5 {
+	position: absolute;
+	top: 2160px;
+	left: 190px;
+	text-align: center;
+	color: #B7B7B7;
+}
+.pag4 {
+	text-align: center;
+	margin-top: 50px;
+}
+.pag4 img {
+	width: 100%;
+	position: absolute;
+	top: 2850px;
+	left: 1px;
+}
+.pag5 {
+	text-align: center;
+	margin-top: 50px;
+}
+.pag5 img {
+	width: 100%;
+	position: absolute;
+	top: 3850px;
+	left: 1px;
+}
+.ultima {
+	text-align: center;
+	margin-top: 50px;
+}
+.ultima img {
+	width: 100%;
+	position: absolute;
+	top: 4850px;
+	left: 1px;
+}
+.contato {
+	position: absolute;
+	top:4900px ;
+	left:690px ;
+	font-size: 50px;
+	font-weight: bold;
+}
+.caixa {
+	background-color: #2F3140;
+	border-radius: 10px;
+	border: 1px solid white;
+	text-align: center;
+	outline: none;
+	background-color:#2F3140;
+	width: 400px;
+	height: 50px;
+    
+    
+}
+.caixa2 {
+	background-color: #2F3140;
+	border-radius: 10px;
+	border: 1px solid white;
+	text-align: center;
+	outline: none;
+	background-color:#2F3140;
+	width: 400px;
+	height: 50px;
+
+}
+.caixa3 {
+	background-color: #2F3140;
+	border-radius: 10px;
+	border: 1px solid white;
+	text-align: center;
+	outline: none;
+	background-color:#2F3140;
+	width: 400px;
+	height: 50px;
+}
+.botao5 {
+	background-color: #0B7636;
+	color: #FFFFFF;
+	padding: 20px 150px;
+	border-radius: 10px;
+	font-size: 18;
+	cursor: pointer;
+	display: inline-block;
+	border:none;
+	position: absolute;
+	top:350px ;
+	left:-50px ;
+
+}
+.cansei {
+	text-align: center;
+	margin-top: 50px;
+}
+.cansei img {
+	width: 100%;
+	position: absolute;
+	top: 1000px;
+	left: 1px;
